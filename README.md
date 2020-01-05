@@ -2,6 +2,11 @@
 A Flutter Application to calculate BMI.    
 Main Goal: To make use of intermediate Flutter UI Concepts.
 
+## Getting Started
+```
+git clone https://github.com/daryllman/BMI-Calculator.git
+```
+
 ## Final State
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
